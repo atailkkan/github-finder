@@ -1,0 +1,11 @@
+nav {
+    margin-bottom: 10px;
+}
+a {
+    text-decoration: none;
+    color: currentColor;
+    margin-right: 10px;
+}
+.active {
+    color: red
+}
